@@ -207,6 +207,12 @@ hr {
     margin-left: 5px;
 }
 
+.player,
+.blog,
+.course {
+    transition: 0.2s ease-in-out;
+}
+
 .player:hover,
 .blog:hover,
 .course:hover {
